@@ -1,4 +1,4 @@
-# Machine-Learning-Acronyms
+# Machine Learning Acronyms
 A collection of Machine Learning Acronyms. 
 
 Feel free to send a pull request
