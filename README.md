@@ -14,10 +14,10 @@ Feel free to send a pull request
 | BPTS    | Backpropagation through structure                           |
 | BPTT    | Back propagation through time                               |
 | CNN     | Convolutional Neural network                                |
-| COCO    | Common Objects in Context [Image Library]                   |
-| CTC     | connectionist temporal classification                       |
+| COCO    | Common Objects in Context                                   |
+| CTC     | Connectionist Temporal Classification                       |
 | DBN     | Deep Belief Network                                         |
-| DCGAN   | deep convolutional generative adversarial networks          |
+| DCGAN   | Deep Convolutional Generative Adversarial Networks          |
 | DNN     | Deep Neural Network                                         |
 | EBM     | Energy Based Model                                          |
 | ELU     | Exponential Linear Unit                                     |
